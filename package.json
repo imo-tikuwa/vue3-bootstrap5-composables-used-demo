@@ -1,0 +1,16 @@
+{
+  "name": "vue3-bootstrap5-composables-used-demo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "imo-tikuwa (https://github.com/imo-tikuwa)",
+  "license": "MIT",
+  "devDependencies": {
+    "@imo-tikuwa/vue3-bootstrap5-composables": "^0.1.0",
+    "@vitejs/plugin-vue": "^4.5.0",
+    "sass": "^1.69.5",
+    "vite": "^5.0.4"
+  }
+}
